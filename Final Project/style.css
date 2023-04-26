@@ -18,6 +18,12 @@ body {
 
 .content {
     margin: 82px;
+    margin-left:575px;
+}
+
+.content_movie {
+    margin: 82px;
+    margin-left:450px;
 }
 
 .content_link {
@@ -31,4 +37,14 @@ body {
     border-radius: 20px;
     width: 250px;
     height: 278px;
+    padding-left: 10px;
+    
+}
+
+p {
+    text-align: center;
+}
+
+.btn {
+    margin-top: 80px;
 }
