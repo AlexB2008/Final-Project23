@@ -48,3 +48,9 @@ p {
 .btn {
     margin-top: 80px;
 }
+
+h1 {
+    text-align: center;
+    color: #f4aa00;
+    font-size: 50px;
+}
