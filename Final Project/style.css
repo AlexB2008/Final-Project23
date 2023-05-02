@@ -2,6 +2,7 @@ body {
     margin:0;
     padding:0;
     font-family: Arial;
+    background-color: rgb(238, 238, 225);
 }
 
 .head {
@@ -19,12 +20,12 @@ body {
 
 .content {
     margin: 82px;
-    margin-left: 18%;
+    margin-left: 33%;
 }
 
 .content_movie {
     margin: 82px;
-    margin-left: 12%;
+    margin-left: 22%;
 }
 
 .content_link {
@@ -46,10 +47,11 @@ p {
 }
 
 .btn {
-    margin-top: 4%;
+    margin-top: 2%;
+    margin-right: 52px;
     background-color: #00008b;
     color: white;
-    font-size: 18px;
+    font-size: 22px;
 }
 
 .btn a {
@@ -60,4 +62,10 @@ h1 {
     text-align: center;
     color: #f4aa00;
     font-size: 50px;
+}
+
+.preview_img {
+    border: 2px solid black;
+    border-collapse: collapse;
+    border-radius: 5px;
 }
